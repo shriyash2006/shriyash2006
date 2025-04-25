@@ -6,8 +6,6 @@ I am a B.Tech student at VIT Bhopal, passionate about technology, computational 
 
 🎯 My Interests
 
-Computational Chemistry 🧪🔬
-
 Python Programming 🐍💻
 
 Automation & AI 🤖
