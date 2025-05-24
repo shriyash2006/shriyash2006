@@ -24,7 +24,7 @@ Developing automation scripts to optimize processes.
 
 📫 Connect with Me
 
-LinkedIn: Shriyash Sahu
+LinkedIn: [Shriyash Sahu](https://www.linkedin.com/in/shriyash-sahu/)
 
 GitHub: shriyashsahu
 
