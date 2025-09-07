@@ -96,10 +96,10 @@ I'm a passionate developer who thrives on turning innovative ideas into reality 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyashsahu/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriyashsahu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shriyashsahu/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriyashsahu@example.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyashsahu/](https://www.linkedin.com/in/shriyash-sahu/)
+[![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shriyashsahu](https://x.com/shriyash_2006))
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shriyashsahu/](https://www.instagram.com/shriyash.__/?next=%2F))
+[![Email](send.shriyash@outlook.com)
 
 </div>
 
@@ -114,7 +114,7 @@ I'm a passionate developer who thrives on turning innovative ideas into reality 
 
 ## 🎵 Spotify Playing
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" width="350" />
+  <img src="[https://spotify-github-profile.vercel.app/api/spotify-playing" width="350"](https://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4?si=6c5975d156374659) />
 </div>
 
 ---
