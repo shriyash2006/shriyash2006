@@ -1,199 +1,294 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shriyash%20Sahu&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20|%20Developer%20|%20Problem%20Solver&descAlignY=55&descAlign=62)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Competitive+Programming+Enthusiast;Full+Stack+Developer;Data+Structures+%26+Algorithms+Expert;Always+Coding+Something+New)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:434343&height=220&section=header&text=Shriyash%20Sahu&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Vibe%20Coder%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/shriyash2006">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+with+AI+%E2%9C%A8;AI+Engineer+%7C+Vibe+Coder;Full+Stack+%26+Product+Development;Turning+Ideas+into+Working+Products;Experimenting+with+LLMs+%26+Automation" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/shriyash2006">
+<img src="https://komarev.com/ghpvc/?username=shriyash2006&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/shriyash2006?tab=followers">
+<img src="https://img.shields.io/github/followers/shriyash2006?style=for-the-badge&label=Followers&color=000000" alt="GitHub Followers"/>
+</a>
 
 </div>
 
+---
+
+## 👋 About Me
+
+I'm **Shriyash Sahu**, a Computer Science & Engineering student at **VIT**, focused on building software products with **AI, modern web technologies, and automation**.
+
+I enjoy taking an idea from **concept → prototype → working product**, often using AI-assisted development and rapid experimentation.
+
+```text
+AI Engineer       → LLMs • Generative AI • AI Applications
+Vibe Coder        → AI-assisted development • Rapid prototyping
+Full Stack        → Next.js • React • FastAPI • Supabase
+Cloud             → AWS • Vercel • Google Cloud
+Automation        → n8n • APIs • AI workflows
+Builder           → Products • Experiments • Open Source
+```
+
+### 🚀 What I'm Building
+
+* 🤖 AI-powered applications and intelligent workflows
+* 🌐 Full-stack web products with modern architectures
+* ⚡ Rapid prototypes using AI-assisted development
+* 🔗 API-driven applications and automation pipelines
+* 🧠 Experiments with LLMs, Generative AI and AI agents
+* 🛠️ Developer tools and productivity-focused products
+
+---
+
+## 🧠 My Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css&perline=6" />
+
+</p>
+
+### Frontend & Full Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript&perline=5" />
+
+</p>
+
+### Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,firebase&perline=5" />
+
+</p>
+
+### AI / GenAI
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+</p>
+
+### Cloud, DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode,jupyter&perline=6" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Assisted%20Development-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ How I Build
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🧠 AI Research]
+    B --> C[⚡ Rapid Prototype]
+    C --> D[💻 Full Stack Development]
+    D --> E[🔗 APIs & Automation]
+    E --> F[☁️ Deploy]
+    F --> G[🚀 Iterate]
+```
+
+I like keeping the development loop simple:
+
+**Think → Build → Test → Deploy → Improve**
+
+---
+
+## 🌟 Featured Project
+
+### ✍️ ScriptLyra
+
+**ScriptLyra** is a modern publishing platform designed around **articles, blogs and creator-focused content**, combining a clean reading experience with modern web technologies.
+
+<p align="center">
+
+<a href="https://scriptlyra.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Product-ScriptLyra-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+**Stack**
+
+`Next.js` `React` `Supabase` `JavaScript` `Vercel` `GitHub`
+
+**Focus**
+
+* 📝 Publishing & article creation
+* 👤 User authentication
+* 🔐 Backend services
+* ☁️ Cloud deployment
+* 🎨 Minimal, modern UI
+* 🚀 Product-oriented development
+
+---
+
+## 🤖 AI Engineering
+
+My current focus is increasingly around building practical software with AI rather than treating AI as a standalone technology.
+
+### Areas I'm Exploring
+
+| Area               | Focus                                    |
+| ------------------ | ---------------------------------------- |
+| 🧠 Generative AI   | LLM-powered applications                 |
+| 🤖 AI Agents       | Tool-using & automated workflows         |
+| 🔗 AI + APIs       | Connecting models with real applications |
+| ⚡ AI Development   | Rapid product prototyping                |
+| 🔄 Automation      | n8n + APIs + AI workflows                |
+| ☁️ Cloud AI        | Google Cloud / Vertex AI                 |
+| 📄 Multimodal AI   | Documents, text & visual understanding   |
+| 🛡️ Responsible AI | Privacy, safety & responsible deployment |
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shriyash2006&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shriyash2006?label=Followers&style=social" alt="GitHub Followers" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shriyash2006&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyash2006&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" />
+
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-> *"In the world of algorithms, every problem has an elegant solution waiting to be discovered"* 
-
-I'm a passionate competitive programmer and developer who loves solving complex problems and building efficient solutions. My journey in computer science is driven by curiosity and the thrill of optimizing code to its finest form.
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on **Competitive Programming & DSA**
-- 🌱 Learning **Advanced Algorithms & System Design**
-- 💡 Open to collaborating on **Open Source Projects**
-- 💬 Ask me about **C++, Python, Data Structures & Algorithms**
-- 🏆 Active on **Codeforces, LeetCode & Contest Platforms**
-- ⚡ Fun fact: I solve problems faster than I drink coffee ☕
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyash2006&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA" width="42%" />
+
 </div>
 
-## 🏆 Competitive Programming Stats
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-  ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=shriyash2006&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="90%"/>
+
 </div>
 
-<div align="center">
-  
-  <!-- Replace these with your actual stats -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shriyashsahu2006&theme=github_dark" alt="Codeforces Stats" />
-  
-</div>
-
-<div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/SHRIYASH_SAHU?theme=dark&font=Nunito&ext=activity)
-  
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriyash2006&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyash2006&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyash2006&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="48%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=shriyash2006&theme=algolia&no-frame=true&column=7&margin-w=5)
-  
-</div>
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shriyash2006&theme=react-dark&hide_border=true)
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyash2006&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 </div>
-
-## 💯 Problem Solving Journey
-
-<div align="center">
-  
-  | Platform | Profile | Problems Solved | Current Rating |
-  |----------|---------|----------------|----------------|
-  | 🔥 Codeforces | [@shriyashsahu2006](https://codeforces.com/profile/shriyashsahu2006) | 500+ | Specialist |
-  | 💡 LeetCode | [@SHRIYASH_SAHU](https://leetcode.com/u/SHRIYASH_SAHU/) | 300+ | 1800+ |
-  | 🚀 Unstop | [@shriysah60145](https://unstop.com/u/shriysah60145) | Multiple Contests | Top Performer |
-  
-</div>
-
-## ☁️ Google Cloud Skills Boost
-
-<div align="center">
-  
-  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fd963eeb-9e1b-4d4e-8e6a-e7136ea8cfc2)
-  
-</div>
-
-### 🏅 Recent Achievements & Skill Badges
-
-<div align="center">
-  
-  | Badge | Earned Date | Category |
-  |-------|-------------|----------|
-  | 🛡️ **Introduction to Security in the World of AI** | Jul 4, 2024 | AI Security |
-  | 🔐 **Responsible AI for Developers: Privacy & Safety** | Jun 21, 2024 | AI Ethics |
-  | 🔍 **Responsible AI for Developers: Interpretability & Transparency** | Jun 9, 2024 | AI Ethics |
-  | ⚖️ **Responsible AI for Developers: Fairness & Bias** | Jun 8, 2024 | AI Ethics |
-  | 📊 **Machine Learning Operations (MLOps) with Vertex AI** | Jun 7, 2024 | MLOps |
-  | 🤖 **Machine Learning Operations (MLOps) for Generative AI** | Jun 3, 2024 | MLOps |
-  | 💎 **Explore Generative AI with the Gemini API in Vertex AI** | May 14, 2024 | Gen AI |
-  | 📄 **Inspect Rich Documents with Gemini Multimodality** | May 10, 2024 | Multimodal AI |
-  | 🚀 **Develop GenAI Apps with Gemini and Streamlit** | May 5, 2024 | App Development |
-  | 🎨 **Build Real World AI Applications with Gemini and Imagen** | May 3, 2024 | AI Applications |
-  | 💬 **Prompt Design in Vertex AI** | May 2, 2024 | Prompt Engineering |
-  
-</div>
-
-### 🎯 AI/ML Specializations
-
-<div align="center">
-  
-  ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Responsible AI](https://img.shields.io/badge/Responsible%20AI-34A853?style=for-the-badge&logo=google&logoColor=white)
-  
-</div>
-
-**🌟 Key Focus Areas:**
-- **Generative AI & LLM Development** with Gemini and Vertex AI
-- **Responsible AI Implementation** including Privacy, Safety & Bias Mitigation
-- **MLOps & Model Evaluation** for Production AI Systems
-- **Multimodal AI Applications** with Document Processing & Image Analysis
-- **AI Security & Governance** for Enterprise Solutions
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyash-sahu/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shriyash_2006)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shriyash.__/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shriyashsahu2006)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SHRIYASH_SAHU/)
-  [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/shriyashsahu2006/)
-  [![Unstop](https://img.shields.io/badge/Unstop-FF6B35?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/u/shriysah60145)
-  
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-C++          12 hrs 45 mins  ████████████▓░░░░░░░░░░░░   50.8%
-Python        8 hrs 23 mins  ████████▓░░░░░░░░░░░░░░░░   33.4%
-JavaScript    2 hrs 15 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.0%
-HTML/CSS      1 hr 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.8%
-```
-<!--END_SECTION:waka-->
-
-## 🎯 Current Goals
-
-- 🏅 Achieve **Expert** rating on Codeforces
-- 🌟 Solve **1000+** problems on LeetCode
-- 🚀 Contribute to major **Open Source** projects
-- 📚 Master **System Design** concepts
-- 🏆 Participate in **International Programming Contests**
 
 ---
 
+## 🧩 Projects & Experiments
+
+Some of the things I've worked on include:
+
+* 🤖 **AI-BUDDY** — AI-focused application / experimentation
+* 📝 **ScriptLyra** — Publishing & article platform
+* 🔄 **Missed-Class-Recovery-Engine** — Productivity / automation project
+* 💻 **Badmosh-Coder-Startathon** — Development project
+* 🌐 **Campus-TaaS** — Campus-focused software project
+* 🧪 Various AI, automation and full-stack experiments
+
+> I believe the best way to learn technology is to **build with it**.
+
+---
+
+## ☁️ Cloud & AI Learning
+
 <div align="center">
-  
-  ### 🌟 "The only way to do great work is to love what you do" - Steve Jobs
-  
-  ⭐️ From [shriyash2006](https://github.com/shriyash2006)
-  
+
+<a href="https://www.cloudskillsboost.google/">
+<img src="https://img.shields.io/badge/Google%20Cloud%20Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsible%20AI-000000?style=for-the-badge&logo=google&logoColor=white"/>
+
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+---
+
+## 🎯 Currently
+
+```text
+🔨 Building        → AI-powered products
+🧠 Learning        → AI Engineering & modern software architecture
+⚡ Experimenting    → Vibe Coding & AI-assisted development
+☁️ Exploring       → Cloud & scalable applications
+🔄 Automating      → AI + APIs + n8n workflows
+🚀 Improving       → Product development & engineering skills
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shriyash-sahu/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shriyash2006">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://scriptlyra.vercel.app">
+<img src="https://img.shields.io/badge/ScriptLyra-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://x.com/shriyash_2006">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 Build fast. Learn constantly. Ship something meaningful.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:0F0F0F&height=120&section=footer"/>
+
+</div>
